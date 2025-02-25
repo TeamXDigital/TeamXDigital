@@ -1,16 +1,26 @@
-## Hi there 👋
+# TEAM-X Digital Solutions
 
-<!--
-**TeamXDigital/TeamXDigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**We are TEAM-X** — a dedicated team of software engineers and digital marketing experts based in Cairo, Egypt.  
 
-Here are some ideas to get you started:
+## Profile
+- **Name**: TEAM-X Digital Solutions  
+- **Pronouns**: They/Them  
+- **Location**: Cairo, Egypt  
+- **Time Zone**: UTC +02:00  
+- **Email**: [info@team-x.digital](mailto:info@team-x.digital)  
+- **Phone**: +20 107 028 0847  
+- **Website**: [https://team-x.digital/](https://team-x.digital/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Expertise
+- Cutting-edge software solutions  
+- Strategic digital marketing  
+- Tools and systems for success  
+
+## Socials
+- **GitHub**: [TeamXDigital](https://github.com/TeamXDigital)  
+- **Twitter**: [@teamxdigital](https://twitter.com/teamxdigital)  
+- **Instagram**: [@teamxdigital](https://instagram.com/teamxdigital)  
+- **Handle**: teamxdigital  
+
+## Contact Us
+Reach out at **[info@team-x.digital](mailto:info@team-x.digital)** or call us at **+20 107 028 0847**. Let’s collaborate!
